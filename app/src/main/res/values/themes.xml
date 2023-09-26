@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LeadApp15" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="AppTheme.Popup" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Дополнительные настройки вашей темы, если необходимо -->
+    </style>
+
+</resources>
